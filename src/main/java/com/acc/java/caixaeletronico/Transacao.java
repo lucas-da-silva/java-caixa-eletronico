@@ -1,4 +1,4 @@
-package com.trybe.acc.java.caixaeletronico;
+package com.acc.java.caixaeletronico;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

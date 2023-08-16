@@ -1,4 +1,4 @@
-package com.trybe.acc.java.caixaeletronico;
+package com.acc.java.caixaeletronico;
 
 import java.util.ArrayList;
 import java.util.Random;

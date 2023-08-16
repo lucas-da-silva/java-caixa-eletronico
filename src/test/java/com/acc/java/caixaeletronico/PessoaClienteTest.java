@@ -1,4 +1,4 @@
-package com.trybe.acc.java.caixaeletronico;
+package com.acc.java.caixaeletronico;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;

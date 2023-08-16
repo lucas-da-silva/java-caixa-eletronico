@@ -1,4 +1,4 @@
-package com.trybe.acc.java.caixaeletronico;
+package com.acc.java.caixaeletronico;
 
 import java.util.Scanner;
 
@@ -32,7 +32,7 @@ public class CaixaEletronico {
 
     while (true) {
 
-      System.out.println("\n\nBem-vindo ao Banco da Trybe\n\n");
+      System.out.println("\n\nBem-vindo ao Banco\n\n");
       System.out.print("Entre com seu CPF: ");
       String pessoaClienteCpf = sc.nextLine();
       System.out.print("Entre com sua senha: ");
